@@ -25,10 +25,10 @@ A secure, ACID-compliant Oracle SQL + PL/SQL database project designed to manage
 ## 🧾 Project Structure
 financial-transaction-management/
 ├── schema/
-│ ├── customers.sql
-│ ├── accounts.sql
-│ ├── transactions.sql
-│ └── sequences.sql
+│    ├── customers.sql
+│    ├── accounts.sql
+│    ├── transactions.sql
+│    └── sequences.sql
 ├── procedures/
 │ └── transfer_funds_procedure.sql
 ├── queries/
